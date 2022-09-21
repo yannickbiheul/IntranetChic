@@ -5,6 +5,12 @@
 ### Outils :
 - xMind
 - Excel
+     - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
+          - A Conserver
+          - A Valider
+          - Qui est responsable de la donnée ?
+          - Commentaires
+          - Liens
 
 ## Étape 2 : Création des maquettes
 
