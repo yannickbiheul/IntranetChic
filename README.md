@@ -20,5 +20,15 @@
 - Le CHIC
 - Ressources humaines
 
+### Proposition de footer :
+- Site Internet du CHIC
+- Système d'information qualité
+- Charte d'utilisation des moyens informatiques
+- Support informatique
+- TEL
+- MAIL
+- Contact Maître de toile
+- Copyright CHIC
+
 ### Outils : 
 - Balsamiq 
