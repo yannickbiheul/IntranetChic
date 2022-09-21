@@ -1,0 +1,21 @@
+Questions
+
+
+Est-ce qu’il y a un proxy de configuré à l’hôpital ?
+
+Est-ce qu’on va être amené à manipuler des bases de données ?
+
+Le menu « Webcad » amène sur un site quand on est sur le page d’accueil.
+Faut-il conserver la possibilité d’aller vers ce site ?
+
+Est-ce que l’expo des chirurgiens de jour existe encore ?
+
+Nouvelles versions des pdf livret d’accueil personnel ?
+
+Pdf du règlement intérieur à jour ? (2008)
+
+Faut-il prévoir l’intranet également sur Smartphone ? sur Tablette ?
+
+Un thème drupal a-t-il déjà été choisi pour le site ?
+
+
