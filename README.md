@@ -10,6 +10,11 @@
 
 ### Proposition de menu :
 - Accueil
+     - Affichage du titre l'Intranet du CHIC au-dessus d'un barre de recherche
+     - Affichage d'un bouton pour acceder aux Gardes et aux Astreintes
+     - Affichage d'un bandeau "Flash Info" défilant
+     - Affichage des événements récents
+     - Affichage des actualités récentes
 - Services en ligne
      - Affichage des différents services sur la page sous forme de cartes
      - Possibilité de rechercher un service en particulier avec une barre de recherche à droite de l'écran
@@ -17,6 +22,8 @@
      - Mise en place des différents sujets sur la page avec les titres des thèmes de documentation
      - Possibilité de cliquer sur un titre pour avoir accès à toute la documentation qui lui est associé
 - Annuaire
+     - Accès à l'annuaire de l'hôpital
+     - Accès à l'aide sur l'utilisation du téléphone
 - Le CHIC
 - Ressources humaines
 
