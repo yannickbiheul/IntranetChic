@@ -1,14 +1,25 @@
 # IntranetChic
 
 ## Évolution du Projet
-- Le projet se compose de 4 phases principales :
-     - Phase Maquettage
-     - Phase Conception
-     - Phase Réalisation
-     - Phase Présentation du prototype
-- Une étape de lancement du projet a été mise en place en amont de ces 4 phases.
-     - Phase de lancement
-          - État des lieux du site intranet
+- Le projet se compose de quatre phases principales :
+1. Phase Maquettage
+2. Phase Conception
+3. Phase Réalisation
+4. Phase Présentation du prototype
+- Une étape de lancement du projet a été mise en place en amont de ces quatre phases.
+   Phase de lancement
+Cette étape correspond à un état des lieux du site intranet.
+
+### Outils :
+- xMind
+     - Réalisation de cartes mentales pour avoir une vision d'ensemble de la structure générale de chaque onglet du site
+- Excel
+     - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
+          - A Conserver
+          - A Valider
+          - Qui est responsable de la donnée ?
+          - Commentaires
+          - Liens
 
 ## Étape 1 : Maquettage
 
@@ -54,15 +65,6 @@
 ## Étape 4 : Présentation du prototype
 
 
-### Outils :
-- xMind
-     - Réalisation de cartes mentales pour avoir une vision d'ensemble de la structure générale de chaque onglet du site
-- Excel
-     - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
-          - A Conserver
-          - A Valider
-          - Qui est responsable de la donnée ?
-          - Commentaires
-          - Liens
+
 
 
