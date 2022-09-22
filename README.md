@@ -22,7 +22,7 @@
           - Commentaires
           - Liens
 
-##Etape 1 : Maquettage
+## Etape 1 : Maquettage
 
 ### Proposition de menu :
 - Accueil
@@ -59,11 +59,11 @@
 - Balsamiq
      - Proposition de maquettes pour les différentes pages du site
 
-##Étape 2 : Conception
+## Étape 2 : Conception
 
-##Étape 3 : Réalisation
+## Étape 3 : Réalisation
 
-##Étape 4 : Présentation du prototype
+## Étape 4 : Présentation du prototype
 
 
 
