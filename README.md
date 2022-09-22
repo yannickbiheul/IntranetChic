@@ -2,12 +2,12 @@
 
 ## Évolution du Projet (4 phases principales)
 
-###    [Étape de lancement](#-étape-de-lancement)
+###    [Étape de lancement](#-etape-de-lancement)
 Une étape de lancement du projet a été mise en place en amont de ces 4 phases. 
-### 1. [Maquettage](#etape-1-:-maquettage)
-### 2. [Conception](#étape-2-:-conception)
-### 3. [Réalisation](#étape-3-:-réalisation)
-### 4. [Présentation du prototype](#étape-4-:-présentation-de-la-maquette)
+### 1. [Maquettage](#etape-1-maquettage)
+### 2. [Conception](#etape-2-conception)
+### 3. [Réalisation](#etape-3-réalisation)
+### 4. [Présentation du prototype](#etape-4-presentation-de-la-maquette)
 
 ## Étape de lancement 
 - État des lieux du site intranet
@@ -24,7 +24,7 @@ Une étape de lancement du projet a été mise en place en amont de ces 4 phases
           - Commentaires
           - Liens
 
-## Etape 1 : Maquettage
+## Étape 1 : Maquettage
 
 ### Proposition de menu :
 - Accueil
