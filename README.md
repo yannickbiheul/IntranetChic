@@ -1,13 +1,13 @@
 # IntranetChic
 
 ## Évolution du Projet
-<u>Le projet se compose de quatre phases principales</u> :
-### 1. Phase Maquettage
+<ins>Le projet se compose de quatre phases principales</ins> :
+### 1. [Phase Maquettage](#etape-1-:--maquettage)
 ### 2. Phase Conception
 ### 3. Phase Réalisation
 ### 4. Phase Présentation du prototype
 - Une étape de lancement du projet a été mise en place en amont de ces quatre phases.
-### Phase de lancement
+###    Phase de lancement
 Cette étape correspond à un état des lieux du site intranet.
 
 ### Outils :
@@ -21,7 +21,7 @@ Cette étape correspond à un état des lieux du site intranet.
           - Commentaires
           - Liens
 
-## Étape 1 : Maquettage
+## Etape 1 : Maquettage
 
 ### Proposition de menu :
 - Accueil
