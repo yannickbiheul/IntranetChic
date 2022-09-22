@@ -1,7 +1,7 @@
 # IntranetChic
 
 ## Évolution du Projet
-- Le projet se compose de quatre phases principales :
+<u>Le projet se compose de quatre phases principales</u> :
 ### 1. Phase Maquettage
 ### 2. Phase Conception
 ### 3. Phase Réalisation
