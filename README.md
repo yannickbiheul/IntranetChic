@@ -1,19 +1,11 @@
 # IntranetChic
 
-## Étape 1 : État des lieux du site intranet
+## Évolution du Projet
 
-### Outils :
-- xMind
-     - Réalisation de cartes mentales pour avoir une vision d'ensemble de la structure générale de chaque onglet du site
-- Excel
-     - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
-          - A Conserver
-          - A Valider
-          - Qui est responsable de la donnée ?
-          - Commentaires
-          - Liens
+## Étape de lancement
+### État des lieux du site intranet
 
-## Étape 2 : Création des maquettes
+## Étape 1 : Maquettage
 
 ### Proposition de menu :
 - Accueil
@@ -49,3 +41,24 @@
 ### Outils : 
 - Balsamiq
      - Proposition de maquettes pour les différentes pages du site
+
+2. Conception
+3. Réalisation
+4. Présentation du prototype
+
+## Étape 1 : État des lieux du site intranet
+
+### Outils :
+- xMind
+     - Réalisation de cartes mentales pour avoir une vision d'ensemble de la structure générale de chaque onglet du site
+- Excel
+     - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
+          - A Conserver
+          - A Valider
+          - Qui est responsable de la donnée ?
+          - Commentaires
+          - Liens
+
+## Étape 2 : Création des maquettes
+
+
