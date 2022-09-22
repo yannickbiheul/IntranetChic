@@ -4,10 +4,10 @@
 
 ###    Etape de lancement
 - Une étape de lancement du projet a été mise en place en amont de ces quatre phases. Cette étape correspond à un état des lieux du site intranet.
-### 1. [Maquettage](#-etape-1-:-maquettage)
-### 2. [Conception](#-etape-2-:-conception)
-### 3. [Réalisation](#-etape-3-:-réalisation)
-### 4. [Présentation du prototype](#-etape-4-:-presentation-de-la-maquette)
+### 1. [Maquettage](#etape-1-:-maquettage)
+### 2. [Conception](#étape-2-:-conception)
+### 3. [Réalisation](#étape-3-:-réalisation)
+### 4. [Présentation du prototype](#étape-4-:-présentation-de-la-maquette)
 
 ## Etape de lancement 
 
@@ -22,7 +22,7 @@
           - Commentaires
           - Liens
 
-## Etape 1 : Maquettage
+##Etape 1 : Maquettage
 
 ### Proposition de menu :
 - Accueil
@@ -59,11 +59,11 @@
 - Balsamiq
      - Proposition de maquettes pour les différentes pages du site
 
-## Étape 2 : Conception
+##Étape 2 : Conception
 
-## Étape 3 : Réalisation
+##Étape 3 : Réalisation
 
-## Étape 4 : Présentation du prototype
+##Étape 4 : Présentation du prototype
 
 
 
