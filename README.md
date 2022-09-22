@@ -2,14 +2,16 @@
 
 ## Évolution du Projet (4 phases principales)
 
-###    Etape de lancement
-- Une étape de lancement du projet a été mise en place en amont de ces quatre phases. Cette étape correspond à un état des lieux du site intranet.
+###    [Étape de lancement](#-étape-de-lancement)
+Une étape de lancement du projet a été mise en place en amont de ces 4 phases. 
 ### 1. [Maquettage](#etape-1-:-maquettage)
 ### 2. [Conception](#étape-2-:-conception)
 ### 3. [Réalisation](#étape-3-:-réalisation)
 ### 4. [Présentation du prototype](#étape-4-:-présentation-de-la-maquette)
 
-## Etape de lancement 
+## Étape de lancement 
+- État des lieux du site intranet
+     - Prise de connaissance et analyse des différents menus et rubriques déjà mis en place sur le site
 
 ### Outils :
 - xMind
