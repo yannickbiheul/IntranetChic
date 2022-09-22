@@ -2,12 +2,12 @@
 
 ## Évolution du Projet
 - Le projet se compose de quatre phases principales :
-1. Phase Maquettage
-2. Phase Conception
-3. Phase Réalisation
-4. Phase Présentation du prototype
+### 1. Phase Maquettage
+### 2. Phase Conception
+### 3. Phase Réalisation
+### 4. Phase Présentation du prototype
 - Une étape de lancement du projet a été mise en place en amont de ces quatre phases.
-   Phase de lancement
+### Phase de lancement
 Cette étape correspond à un état des lieux du site intranet.
 
 ### Outils :
