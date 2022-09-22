@@ -4,6 +4,7 @@
 
 ### Outils :
 - xMind
+     - Réalisation de cartes mentales pour avoir une vision d'ensemble de la structure générale de chaque onglet du site
 - Excel
      - Mise en place de 5 colonnes pour faciliter le RDV avec le service communication :
           - A Conserver
@@ -23,7 +24,7 @@
      - Affichage des actualités récentes
 - Services en ligne
      - Affichage des différents services sur la page sous forme de cartes
-     - Possibilité de rechercher un service en particulier avec une barre de recherche à droite de l'écran
+     - Accès à la recherche d'un service en particulier avec une barre de recherche à droite de l'écran
 - Documentation
      - Mise en place des différents sujets sur la page avec les titres des thèmes de documentation
      - Possibilité de cliquer sur un titre pour avoir accès à toute la documentation qui lui est associé
@@ -34,14 +35,17 @@
 - Ressources humaines
 
 ### Proposition de footer :
-- Site Internet du CHIC
-- Système d'information qualité
-- Charte d'utilisation des moyens informatiques
-- Support informatique
-- TEL
-- MAIL
-- Contact Maître de toile
+- Gauche
+     - Site Internet du CHIC
+     - Système d'information qualité
+     - Charte d'utilisation des moyens informatiques
+- Droite
+     - Support informatique
+     - TEL
+     - MAIL
+     - Contact Maître de toile
 - Copyright CHIC
 
 ### Outils : 
-- Balsamiq 
+- Balsamiq
+     - Proposition de maquettes pour les différentes pages du site
