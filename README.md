@@ -63,6 +63,10 @@ Une étape de lancement du projet a été mise en place en amont de ces 4 phases
 
 ## Étape 2 : Conception
 
+### Outils :
+- Gitlab
+     - Mise en place  d'un Gitlab afin d'y stocker le projet
+
 ## Étape 3 : Réalisation
 
 ## Étape 4 : Présentation du prototype
