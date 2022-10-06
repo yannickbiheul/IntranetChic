@@ -64,6 +64,13 @@ Une étape de lancement du projet a été mise en place en amont de ces 4 phases
 ## Étape 2 : Conception
 
 ### Outils :
+- UwAmp
+     - Installation de uWAmp pour avoir accès à un serveur Web local
+          - PHP 8.1.11
+          - Apache
+          - MySQL 5.7.11  
+- Drupal 9.4.7
+     - Installation et configuration de Drupal
 - Gitlab
      - Mise en place  d'un Gitlab afin d'y stocker le projet
 
